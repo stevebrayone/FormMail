@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\FormMail\formMail\obj\Debug\net8.0\formMail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\FormMail\formMail\obj\Debug\net8.0\formMail.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\FormMail\formMail\obj\Debug\net8.0\formMail.AssemblyInfo.cs
+C:\Users\Acer\source\repos\FormMail\formMail\obj\Debug\net8.0\formMail.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\FormMail\formMail\obj\Debug\net8.0\formMail.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Acer\source\repos\FormMail\formMail\obj\Debug\net8.0\formMail.RazorAssemblyInfo.cache
+C:\Users\Acer\source\repos\FormMail\formMail\obj\Debug\net8.0\formMail.RazorAssemblyInfo.cs

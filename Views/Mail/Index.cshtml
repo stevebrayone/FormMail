@@ -1,0 +1,13 @@
+﻿@model FormMail.Models.NewFormModel
+<h1>Enter your details</h1>
+<form asp-controller="Mail" asp-action="SendMail" method="post">
+    <label asp-for="Name" pattern="[A-Z][a-z]*" title="Start with capital letter" required>Name:</label>
+    <input type="text" asp-for="Name" /><br />
+    <label asp-for="ToMail" required>ToMail:</label>
+    <input type="text" asp-for="ToMail" /><br />
+    <label asp-for="Subject" required>Subject:</label>
+    <input type="text" asp-for="Subject" /><br />
+    <label asp-for="Message" required>Message:</label>
+    <input type="text" asp-for="Message" /><br />
+    <input type="submit" value="Send Mail" />
+</form>
