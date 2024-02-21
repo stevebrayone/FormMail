@@ -5,3 +5,4 @@ C:\Users\Acer\source\repos\FormMail\formMail\obj\Debug\net8.0\formMail.csproj.Co
 C:\Users\Acer\source\repos\FormMail\formMail\obj\Debug\net8.0\formMail.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Acer\source\repos\FormMail\formMail\obj\Debug\net8.0\formMail.RazorAssemblyInfo.cache
 C:\Users\Acer\source\repos\FormMail\formMail\obj\Debug\net8.0\formMail.RazorAssemblyInfo.cs
+C:\Users\Acer\source\repos\formMail\formMail\obj\Debug\net8.0\formMail.sourcelink.json

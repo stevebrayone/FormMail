@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("formMail")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff375a2e0f2218d9b8417a185ace4004c97952ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("formMail")]
 [assembly: System.Reflection.AssemblyTitleAttribute("formMail")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
