@@ -20,7 +20,7 @@ namespace FormMail.Controllers
             email.IsBodyHtml = true;
             email.Body = obj.Message;
             System.Net.Mail.SmtpClient smtp = new System.Net.Mail.SmtpClient("smtp.gmail.com", 587);
-            smtp.Credentials = new NetworkCredential("steveeb08@gmail.com", "wevb zvav vqkm vnsg");
+            smtp.Credentials = new NetworkCredential("steveeb@gmail.com", "wevb zvav vqkm vnsg");
             smtp.EnableSsl = true;
             smtp.Send(email);
 
